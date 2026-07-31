@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro",
+    "price": 1800,
+    "category": "Electronics",
+    "rating": 4.9,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OhnF-K8WffhhywBeLTV_ySg9YJc3mqGR6Yru6iwrHg&s=10"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 16",
+    "price": 1200,
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmahfMXmoydmIIIHGTvNElJJnZqP3hLf3xNIgpMYGzNw&s=10"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy",
+    "price": 950,
+    "category": "Electronics",
+    "rating": 4.7,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAIaP0nvC6-tnYpQ0m3GOCspalMVh4THatgBDKyaJXLw&s=10"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "price": 80,
+    "category": "Gaming",
+    "rating": 4.5,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAAOcj6hm-ivtYkJBUXSV_vj2TS-4uuoD-idysFwZPhw&s=10"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 150,
+    "category": "Gaming",
+    "rating": 4.8,
+    "stock": false,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fYJdPXCnmmfLhkyFdOS7OVYIqvoYJJ352vS6Xls-bg&s=10"
+  },
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "price": 120,
+    "category": "Fashion",
+    "rating": 4.6,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqQZLgpsFJ9FypAHfiBmzHHrx693UtrtG75mhQLUVag&s=10"
+  },
+  {
+    "id": 7,
+    "name": "Leather Jacket",
+    "price": 250,
+    "category": "Fashion",
+    "rating": 4.7,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBrbwXImxQtlPCNSDrKO7YcNV5MK6SPXhhYlKYnuniQ&s=10"
+  },
+  {
+    "id": 8,
+    "name": "Office Chair",
+    "price": 320,
+    "category": "Furniture",
+    "rating": 4.4,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT4mnW73s6e2WKjwafwdamje259DaRC9MAO7aWG9N9w&s=10"
+  },
+  {
+    "id": 9,
+    "name": "Wooden Desk",
+    "price": 450,
+    "category": "Furniture",
+    "rating": 4.6,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIB_2ZhXIXr83GrI75OfzYXK1bXa5P6FCZwEFz3BZy_Q&s=10"
+  },
+  {
+    "id": 10,
+    "name": "Coffee Maker",
+    "price": 180,
+    "category": "Home",
+    "rating": 4.5,
+    "stock": false,
+    "image": "https://www.lahorecentre.com/cdn/shop/files/Philips-LOr-Barista-Sublime-Capsule-Coffee-Machine.webp?v=1778046958"
+  },
+  {
+    "id": 11,
+    "name": "Air Fryer",
+    "price": 160,
+    "category": "Home",
+    "rating": 4.7,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8fIiEdViJFKd5_qOdjLE2jweaYpDlRFPz3J0oXsCpSA&s=10"
+  },
+  {
+    "id": 12,
+    "name": "Smart Watch",
+    "price": 300,
+    "category": "Accessories",
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3_0_1ms_lRZ4SN8OaeJSkj6cmekmzVPTW8tVnFcbWg&s=10"
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker",
+    "price": 140,
+    "category": "Accessories",
+    "rating": 4.5,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2h4h8Ce-SvcV8EZeELfxIPQGMrGhfHilO7xOSUDHzQ&s=10"
+  },
+  {
+    "id": 14,
+    "name": "Football",
+    "price": 40,
+    "category": "Sports",
+    "rating": 4.6,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtW8ksRgTKsHdFPTMmjfdi2NGPYKQ-7TT9h07B4T3Vbg&s=10"
+  },
+  {
+    "id": 15,
+    "name": "Tennis Racket",
+    "price": 180,
+    "category": "Sports",
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0z5r2OUTZ4KJTFU4JpBU_-P8I7Wv-HDsAgVtVRci-tQ&s=10"
+  },
+  {
+    "id": 16,
+    "name": "Programming Book",
+    "price": 60,
+    "category": "Books",
+    "rating": 4.9,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-41R17U76KgACNonYl7OQq96ToJo3raErIe3tUkOAg&s=10"
+  },
+  {
+    "id": 17,
+    "name": "React Guide",
+    "price": 45,
+    "category": "Books",
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJv9wSyhc-QkdwzxevBq07WTk_drqfvA2GsIooI7FJA&s=10"
+  },
+  {
+    "id": 18,
+    "name": "Face Cream",
+    "price": 35,
+    "category": "Beauty",
+    "rating": 4.3,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_cRNX9eIe6Xwm4743p_qBfjXLArACfxL8mJJPcitww&s=10"
+  },
+  {
+    "id": 19,
+    "name": "Perfume",
+    "price": 95,
+    "category": "Beauty",
+    "rating": 4.7,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-41DIs2sRJCBYsk0utToawSeu3diOCBHUqF51-_caA&s"
+  },
+  {
+    "id": 20,
+    "name": "Wireless Earbuds",
+    "price": 220,
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_eVidCBFoIrTkbNQ3O1nJ_bSFU-cB-1YNRYkSzwE4vw&s=10"
+  }
+]
